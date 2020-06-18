@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1592442012 source:c:\users\volod\desktop\СИ проекты\rgr_volodov_13\functions.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"GoodsReceipt.h"
+	"SalesGoods.h"
+	"WareHouse.h"
+	"CounterParty.h"
+	"Products.h"
+
+1592467169 c:\users\volod\desktop\СИ проекты\rgr_volodov_13\goodsreceipt.h
+	<iostream>
+
+1592467169 c:\users\volod\desktop\СИ проекты\rgr_volodov_13\salesgoods.h
+	<iostream>
+	"GoodsReceipt.h"
+
+1592441981 c:\users\volod\desktop\СИ проекты\rgr_volodov_13\warehouse.h
+	<iostream>
+	"SalesGoods.h"
+
+1592441981 c:\users\volod\desktop\СИ проекты\rgr_volodov_13\counterparty.h
+	<iostream>
+	"SalesGoods.h"
+
+1592467169 c:\users\volod\desktop\СИ проекты\rgr_volodov_13\products.h
+	<iostream>
+	"CounterParty.h"
+
+1592467406 source:c:\users\volod\desktop\СИ проекты\rgr_volodov_13\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"GoodsReceipt.h"
+	"SalesGoods.h"
+	"WareHouse.h"
+	"CounterParty.h"
+	"Products.h"
+
